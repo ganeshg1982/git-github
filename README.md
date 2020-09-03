@@ -1,2 +1,2 @@
 # git-github
-MyFirst Github
+This is for tutorial purpose.
